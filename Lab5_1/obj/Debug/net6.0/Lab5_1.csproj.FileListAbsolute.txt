@@ -1,0 +1,14 @@
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\bin\Debug\net6.0\Lab5_1.exe
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\bin\Debug\net6.0\Lab5_1.deps.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\bin\Debug\net6.0\Lab5_1.runtimeconfig.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\bin\Debug\net6.0\Lab5_1.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\bin\Debug\net6.0\Lab5_1.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\Lab5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\Lab5_1.AssemblyInfoInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\Lab5_1.AssemblyInfo.cs
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\Lab5_1.csproj.CoreCompileInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\Lab5_1.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\refint\Lab5_1.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\Lab5_1.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\Lab5_1.genruntimeconfig.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 5\Lab5_1\obj\Debug\net6.0\ref\Lab5_1.dll
